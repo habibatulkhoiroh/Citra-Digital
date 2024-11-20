@@ -76,6 +76,7 @@ def upload_file():
         deteksi_kematangan_tomat(filename) 
  
 # Panggil fungsi untuk mengunggah file gambar 
-upload_file()```
+upload_file()
+```
 
-Program ini untuk mendeteksi kematangan buat tomat berdasarkan presentase warna merah pada tomat, program ini menggunakan bahasa pemrograman python.
+#Program ini untuk mendeteksi kematangan buat tomat berdasarkan presentase warna merah pada tomat, program ini menggunakan bahasa pemrograman python.
