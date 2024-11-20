@@ -79,4 +79,4 @@ def upload_file():
 upload_file()
 ```
 
-# Program ini untuk mendeteksi kematangan buat tomat berdasarkan presentase warna merah pada tomat, program ini menggunakan bahasa pemrograman python.
+<b>Program ini untuk mendeteksi kematangan buat tomat berdasarkan presentase warna merah pada tomat, program ini menggunakan bahasa pemrograman python.<b>
